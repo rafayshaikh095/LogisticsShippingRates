@@ -1,0 +1,21 @@
+Shipping Calculator - GitHub Practice
+
+Shipping Calculator
+
+The Shipping Calculator is a simple application designed to estimate
+shipping costs based on package details.
+
+The calculator can consider factors such as:
+
+- Package weight
+- Shipping distance
+- Shipping method
+- Delivery speed
+
+The purpose of the application is to help users estimate shipping
+charges before placing a shipment order.
+
+GitHub Practice:
+This file was added as part of the Git and GitHub practice project.
+
+Regards: Muhammad Rafay
